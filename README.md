@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Isabela Costa 👋
 
-- 🌱 Estudando Python e PHP
+- 🌱 Estudando Python, PHP e C
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
