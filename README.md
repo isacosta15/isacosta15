@@ -30,13 +30,13 @@ Gosto de transformar ideias em sistemas funcionais, organizados e escaláveis.
 ## 🛠️ Tech Stack
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 
 </div>
 
@@ -46,7 +46,7 @@ Gosto de transformar ideias em sistemas funcionais, organizados e escaláveis.
 🚀 **EcoTrack**  
 Plataforma de reciclagem com backend em Node.js, autenticação JWT, ranking e sistema de pontos.
 
-🔧 **APIs REST**
+🔧 **APIs REST**  
 Projetos focados em CRUD, autenticação, regras de negócio e integração com frontend.
 
 *(Repositórios fixados no perfil)*
@@ -54,28 +54,22 @@ Projetos focados em CRUD, autenticação, regras de negócio e integração com 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"
-  alt="Isabela Costa GitHub stats"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isacosta15&theme=github_dark"/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacosta15&layout=compact&theme=midnight-purple&hide_border=true"
-  alt="Top languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isacosta15&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isacosta15&theme=github_dark"/>
 
 </div>
-
 
 ---
 
 ## 🔥 Atividade
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isacosta15&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=isacosta15&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -84,7 +78,7 @@ Projetos focados em CRUD, autenticação, regras de negócio e integração com 
 ## 🔗 Conecte-se comigo
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/isacosta15)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/isacosta15)
 
 </div>
 
