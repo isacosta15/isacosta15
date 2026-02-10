@@ -56,7 +56,8 @@ Projetos focados em CRUD, autenticação, regras de negócio e integração com 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacosta15&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
