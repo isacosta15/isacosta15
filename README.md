@@ -1,17 +1,90 @@
-## Olá! Eu sou a Isabela Costa 👋
+<div align="center">
 
-- 🌱 Estudando Python, PHP e C
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=180&section=header&text=Isabela%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Isa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### 👩‍💻 Desenvolvedora Backend em formação | ADS  
+💜 Apaixonada por lógica, APIs e soluções bem estruturadas
 
-  ##
-  <div> 
-  <a href="https://instagram.com/bela_memories15?igsh=eGprZHByY2htc2ds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoisabela.nunes8@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabela-costa-88a74826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+---
+
+## ✨ Sobre mim
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Foco em **Desenvolvimento Backend**  
+🚀 Interesse em **APIs REST, banco de dados e arquitetura de software**
+
+Gosto de transformar ideias em sistemas funcionais, organizados e escaláveis.
+
+---
+
+## 🧠 Áreas de Interesse
+- Desenvolvimento Backend  
+- APIs REST  
+- Banco de Dados  
+- Arquitetura de Software  
+- Boas práticas e código limpo  
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+🚀 **EcoTrack**  
+Plataforma de reciclagem com backend em Node.js, autenticação JWT, ranking e sistema de pontos.
+
+🔧 **APIs REST**
+Projetos focados em CRUD, autenticação, regras de negócio e integração com frontend.
+
+*(Repositórios fixados no perfil)*
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacosta15&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Atividade
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isacosta15&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔗 Conecte-se comigo
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/isacosta15)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Backend é onde a lógica encontra propósito.”* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=120&section=footer"/>
