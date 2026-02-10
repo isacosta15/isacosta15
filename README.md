@@ -31,17 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-> **Esses gráficos são 100% dinâmicos e refletem seu perfil real**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacosta15&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
@@ -60,7 +49,7 @@
 ## 🌐 Onde me encontrar
 
 - 💻 GitHub: https://github.com/isacosta15  
-- 🔗 LinkedIn: *(adicione seu link aqui)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/isabela-nunes-dev/
 
 ---
 
