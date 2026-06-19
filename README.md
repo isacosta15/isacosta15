@@ -1,153 +1,166 @@
 <!-- HEADER -->
-
 <p align="center">
-<img src="LINK_DO_SEU_BANNER_PERSONALIZADO"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7cff&height=220&section=header&text=Isabela%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h1 align="center">
-✨ Isabela Costa
-</h1>
-
-
-<h3 align="center">
-💜 Full Stack Developer | ADS Student | Tech Enthusiast
-</h3>
-
+<h2 align="center">
+  💻 Desenvolvedora Full Stack Júnior em formação
+</h2>
 
 <p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas • FATEC
+</p>
 
-<a href="https://github.com/isacosta15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/isabela-nunes-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/isacosta15">
+    GitHub
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/isabela-nunes-dev/">
+    LinkedIn
+  </a>
 </p>
 
 
 ---
 
-## 👩🏻‍💻 Hello, dev! 
+## 👩‍💻 Sobre mim
 
+Olá! Eu sou a Isabela Costa 👋
 
-<div align="center">
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC** e formada em **Desenvolvimento de Sistemas pela ETEC**.
 
-<img align="right" width="300" src="LINK_DO_SEU_AVATAR"/>
+Tenho foco em **Desenvolvimento Full Stack**, criando aplicações completas envolvendo:
 
-</div>
+- desenvolvimento de APIs REST
+- lógica de negócio
+- banco de dados
+- autenticação
+- integração entre frontend e backend
 
+Tenho interesse em construir soluções utilizando tecnologia para resolver problemas reais, sempre buscando evoluir minhas habilidades técnicas e profissionais.
 
-Sou a Isabela 👋
-
-Desenvolvedora em formação apaixonada por tecnologia, criação de soluções e aprendizado contínuo.
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
-
-💻 Experiência com desenvolvimento Full Stack
-
-🚀 Construindo projetos envolvendo APIs, banco de dados, aplicações web e inteligência artificial.
-
-
-Meu objetivo é transformar ideias em produtos digitais funcionais, escaláveis e com impacto.
-
-
-<br clear="right"/>
+🚀 Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, arquitetura de sistemas e boas práticas de programação.
 
 
 ---
 
-# 🧠 Tech Stack
-
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,python,react,html,css,mysql,mongodb,git,github,vscode&theme=light"/>
-
-
-</div>
-
-
----
-
-# 🚀 Featured Projects
-
+# 🛠️ Tecnologias
 
 <div align="center">
 
+### Backend
 
-<a href="https://github.com/isacosta15/ecotrack-backend">
+<img src="https://skillicons.dev/icons?i=java,nodejs,python,dotnet&theme=light"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isacosta15&repo=ecotrack-backend&theme=tokyonight"/>
+<br><br>
 
-</a>
+### Frontend
 
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css&theme=light"/>
 
-<a href="https://github.com/isacosta15/aurora-api">
+<br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isacosta15&repo=aurora-api&theme=tokyonight"/>
+### Banco de Dados & Ferramentas
 
-</a>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=light"/>
 
 </div>
 
 
 ---
 
-# 🌱 EcoTrack
+# 🚀 Projetos em Destaque 
+
+## 🌱 EcoTrack
+
+Plataforma voltada para sustentabilidade e incentivo à reciclagem.
+
+Principais funcionalidades:
+
+♻️ Registro de materiais reciclados  
+🔐 Autenticação de usuários  
+🏆 Sistema de pontuação e ranking  
+📍 Pontos de coleta  
+🤖 Reconhecimento de objetos utilizando inteligência artificial  
 
 
-♻️ Plataforma Full Stack voltada para sustentabilidade.
+Tecnologias:
 
-
-Possui:
-
-✨ Sistema de usuários  
-✨ Autenticação JWT  
-✨ Registro de reciclagens  
-✨ Ranking  
-✨ Pontuação  
-✨ IA para reconhecimento de materiais
-
-
-Stack:
-
-`Node.js` `MongoDB` `JavaScript` `TensorFlow`
-
+`Node.js` `JavaScript` `MongoDB` `JWT` `TensorFlow`
 
 
 ---
 
-# 🤖 Aurora
+## 🤖 Projeto de Inteligência Artificial - Aurora
 
+Assistente virtual criada para suporte emocional inicial.
 
-Assistente virtual criada para explorar tecnologia e inteligência artificial aplicada ao suporte inicial.
+Objetivo:
 
+Criar uma experiência de interação utilizando tecnologia para oferecer respostas empáticas e sugestões de autocuidado.
 
 Tecnologias:
 
 `Python` `IA` `APIs`
 
 
-
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 
 <div align="center">
 
 
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isacosta15&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacosta15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isacosta15&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacosta15&layout=compact&langs_count=8&theme=tokyonight"/>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=isacosta15&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+📌 Desenvolvimento Full Stack  
+📌 APIs REST  
+📌 Arquitetura de aplicações  
+📌 Banco de dados  
+📌 Inteligência Artificial aplicada  
+📌 Boas práticas de programação  
+
+
+---
+
+# 🌐 Vamos nos conectar?
+
+
+<div align="center">
+
+
+💻 GitHub  
+https://github.com/isacosta15
+
+
+<br>
+
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/isabela-nunes-dev/
 
 
 </div>
@@ -155,22 +168,8 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 
 ---
 
-# 📚 Currently Learning
-
-
-💜 Advanced Backend  
-💜 Cloud Computing  
-💜 Software Architecture  
-💜 Artificial Intelligence  
-💜 Clean Code  
-
-
----
-
 <p align="center">
-
-✨ Code. Create. Evolve.
-
+  Obrigada pela visita 💜
 </p>
 
 
