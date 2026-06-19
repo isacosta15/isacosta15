@@ -1,27 +1,28 @@
 <!-- HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7cff&height=220&section=header&text=Isabela%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="LINK_DO_SEU_BANNER_PERSONALIZADO"/>
 </p>
 
 
-<h2 align="center">
-💻 Full Stack Developer | ADS Student
-</h2>
+<h1 align="center">
+✨ Isabela Costa
+</h1>
 
 
-<p align="center">
-🚀 Construindo soluções através da tecnologia
-</p>
+<h3 align="center">
+💜 Full Stack Developer | ADS Student | Tech Enthusiast
+</h3>
 
 
 <p align="center">
 
 <a href="https://github.com/isacosta15">
-<img src="https://img.shields.io/badge/GitHub-isacosta15-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/isabela-nunes-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Isabela%20Costa-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -29,50 +30,42 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏻‍💻 Hello, dev! 
 
-Olá! Eu sou a Isabela Costa 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na FATEC** e formada em **Desenvolvimento de Sistemas pela ETEC**.
+<div align="center">
 
-Tenho foco em **Desenvolvimento Full Stack**, criando aplicações envolvendo:
+<img align="right" width="300" src="LINK_DO_SEU_AVATAR"/>
 
-- APIs REST
-- Backend
-- Banco de dados
-- Autenticação
-- Integração Frontend e Backend
+</div>
 
-Tenho interesse em desenvolver soluções reais utilizando tecnologia, sempre buscando melhorar minhas habilidades técnicas e aprender novas ferramentas.
+
+Sou a Isabela 👋
+
+Desenvolvedora em formação apaixonada por tecnologia, criação de soluções e aprendizado contínuo.
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
+
+💻 Experiência com desenvolvimento Full Stack
+
+🚀 Construindo projetos envolvendo APIs, banco de dados, aplicações web e inteligência artificial.
+
+
+Meu objetivo é transformar ideias em produtos digitais funcionais, escaláveis e com impacto.
+
+
+<br clear="right"/>
 
 
 ---
 
-# 🛠️ Tecnologias
+# 🧠 Tech Stack
 
 
 <div align="center">
 
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,nodejs,python,cs,dotnet&theme=light"/>
-
-
-<br><br>
-
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=javascript,react,html,css&theme=light"/>
-
-
-<br><br>
-
-
-### Banco de Dados & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,python,react,html,css,mysql,mongodb,git,github,vscode&theme=light"/>
 
 
 </div>
@@ -80,7 +73,7 @@ Tenho interesse em desenvolver soluções reais utilizando tecnologia, sempre bu
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
 
 <div align="center">
@@ -93,7 +86,6 @@ Tenho interesse em desenvolver soluções reais utilizando tecnologia, sempre bu
 </a>
 
 
-
 <a href="https://github.com/isacosta15/aurora-api">
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isacosta15&repo=aurora-api&theme=tokyonight"/>
@@ -104,31 +96,27 @@ Tenho interesse em desenvolver soluções reais utilizando tecnologia, sempre bu
 </div>
 
 
-
 ---
 
 # 🌱 EcoTrack
 
-Plataforma Full Stack focada em sustentabilidade e incentivo à reciclagem.
+
+♻️ Plataforma Full Stack voltada para sustentabilidade.
 
 
-### Funcionalidades
+Possui:
 
-♻️ Registro de materiais reciclados  
-🔐 Autenticação com JWT  
-🏆 Sistema de pontuação  
-📊 Ranking de usuários  
-📍 Pontos de coleta  
-🤖 Reconhecimento de objetos com Inteligência Artificial  
+✨ Sistema de usuários  
+✨ Autenticação JWT  
+✨ Registro de reciclagens  
+✨ Ranking  
+✨ Pontuação  
+✨ IA para reconhecimento de materiais
 
 
-### Tecnologias
+Stack:
 
-`Node.js`  
-`JavaScript`  
-`MongoDB`  
-`JWT`  
-`TensorFlow`
+`Node.js` `MongoDB` `JavaScript` `TensorFlow`
 
 
 
@@ -136,23 +124,19 @@ Plataforma Full Stack focada em sustentabilidade e incentivo à reciclagem.
 
 # 🤖 Aurora
 
-Assistente virtual criada para suporte emocional inicial.
+
+Assistente virtual criada para explorar tecnologia e inteligência artificial aplicada ao suporte inicial.
 
 
-O projeto explora o uso de tecnologia e inteligência artificial para criar interações mais acolhedoras.
+Tecnologias:
 
-
-### Tecnologias
-
-`Python`  
-`IA`  
-`APIs`
+`Python` `IA` `APIs`
 
 
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 
 <div align="center">
@@ -169,67 +153,27 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 </div>
 
 
-<br>
+---
+
+# 📚 Currently Learning
 
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=isacosta15&theme=tokyonight"/>
-
-</div>
-
+💜 Advanced Backend  
+💜 Cloud Computing  
+💜 Software Architecture  
+💜 Artificial Intelligence  
+💜 Clean Code  
 
 
 ---
-
-# 📚 Atualmente estudando
-
-
-📌 Desenvolvimento Full Stack  
-📌 APIs REST  
-📌 Arquitetura de aplicações  
-📌 Banco de dados  
-📌 Inteligência Artificial aplicada  
-📌 Boas práticas de programação
-
-
-
----
-
-# 🌐 Contato
-
-
-<div align="center">
-
-
-💻 GitHub  
-https://github.com/isacosta15
-
-
-<br>
-
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/isabela-nunes-dev/
-
-
-</div>
-
-
-
----
-
 
 <p align="center">
 
-✨ Transformando ideias em soluções através da tecnologia.
+✨ Code. Create. Evolve.
 
 </p>
 
 
-
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7cff&height=120&section=footer"/>
-
 </p>
