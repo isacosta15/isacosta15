@@ -76,18 +76,13 @@ Tenho interesse em construir soluções utilizando tecnologia para resolver prob
 <div align="center">
 
 
-<a href="LINK_ECOTRACK">
+<a href="https://github.com/isacosta15/ecotrack-backend">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=isacosta15&repo=EcoTrack&theme=tokyonight"/>
 </a>
 
 
-<a href="LINK_AURORA">
+<a href="https://github.com/isacosta15/aurora-api">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=isacosta15&repo=Aurora&theme=tokyonight"/>
-</a>
-
-
-<a href="LINK_DELIVERY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isacosta15&repo=Delivery&theme=tokyonight"/>
 </a>
 
 
